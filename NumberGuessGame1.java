@@ -27,6 +27,7 @@ int playerGuess = scanner.nextInt();
         else{
         System.out.println("Sorry But The Number Is Lower. Guess Again."); 
 //a comment was added here hahahaha
+//this is aother line that was added to the code
         }
 
 
