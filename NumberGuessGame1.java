@@ -8,7 +8,7 @@ public class NumberGuessGame1 {
         Scanner scanner = new Scanner(System.in);
 
         int randomNumber = rand.nextInt(100) + 1;
-       // System.out.println("The Random Number Is " + randomNumber);
+       //  this shows the numbe assigned to the code System.out.println("The Random Number Is " + randomNumber);
          int retryCounter = 0;
         while (true) {
             
@@ -26,7 +26,7 @@ int playerGuess = scanner.nextInt();
         }
         else{
         System.out.println("Sorry But The Number Is Lower. Guess Again."); 
-
+//a comment was added here
         }
 
 
